@@ -1,0 +1,27 @@
+body
+{
+	margin-left: 250px;
+	margin-top: 40px;
+	margin-right: 250px;
+}
+.rim
+{
+	list-style-type: upper-roman;
+	
+}
+ol{
+	margin-left: -22px;
+}
+.marker
+{
+	margin-left: -22px;
+}
+li
+{
+	list-style-type:square
+}
+dl
+{
+	font-weight: bold;
+}
+
